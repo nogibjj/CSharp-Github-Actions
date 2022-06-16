@@ -3,7 +3,7 @@
 # CSharp-Github-Actions
 Compile CShare with Github Actions
 
-## To run
+## To create project from scratch run
 
-`dotnet new console -o HelloWorld -f net6.0`
-`dotnet new xunit -o HelloWorld.Tests`
+`mkdir HelloTests && cd HelloTests`
+`dotnet new xunit`

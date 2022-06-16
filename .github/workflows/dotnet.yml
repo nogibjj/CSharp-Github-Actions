@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: dotnet restore HelloWorld
+      run: dotnet restore HelloTests
     - name: Build
-      run: dotnet build HelloWorld --no-restore
+      run: dotnet build HelloTests --no-restore
     - name: Test
-      run: dotnet test HelloWorld --no-build --verbosity normal
+      run: dotnet test HelloTests --no-build --verbosity normal
