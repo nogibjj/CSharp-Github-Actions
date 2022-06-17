@@ -15,4 +15,5 @@ Compile CShare with Github Actions
 
 ## References
 
-
+[Walkthrough on YouTube](https://youtu.be/6OkcNWGA6FY)
+  
