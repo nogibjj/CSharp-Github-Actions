@@ -19,6 +19,6 @@ Compile CSharp with Github Actions
 
 Walkthrough on O'Reilly:
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:06172022VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/continuous-integration-c/06172022VIDEOPAIML/ "Compile CSharp with Github Actions")
+* [![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:06172022VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/continuous-integration-c/06172022VIDEOPAIML/ "Compile CSharp with Github Actions")
 
   
