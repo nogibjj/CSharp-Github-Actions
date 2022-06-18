@@ -1,7 +1,7 @@
 [![.NET](https://github.com/nogibjj/CSharp-Github-Actions/actions/workflows/dotnet.yml/badge.svg)](https://github.com/nogibjj/CSharp-Github-Actions/actions/workflows/dotnet.yml)
 
 # CSharp-Github-Actions
-Compile CShare with Github Actions
+Compile CSharp with Github Actions
 
 ## To create project from scratch run
 
@@ -16,4 +16,6 @@ Compile CShare with Github Actions
 ## References
 
 [Walkthrough on YouTube](https://youtu.be/6OkcNWGA6FY)
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:06172022VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/continuous-integration-c/06172022VIDEOPAIML/ "Compile CSharp with Github Actions")
+
   
